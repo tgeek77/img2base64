@@ -1,6 +1,6 @@
 # img2base64.py
 
-img2base64.py is a script that I wrote that will convert jpeg, gif, png, and a few more formats into base64 and then give you the code in markdown or html format for directly importing images into a file without needing to upload the file separately. Because this is usually a **huge** block of code, it will also send it to your clipboard so you can paste it directly into your code. I suggest
+img2base64.py is a script that I wrote that will convert jpeg, gif, png, and a few more formats into base64 and then give you the code in markdown or html format for directly importing images into a file without needing to upload the file separately. Because this is usually a **huge** block of code, it will also send it to your clipboard so you can paste it directly into your code.
 
 ## How to use it
 
